@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi👋, I am Sahaj Dang
+A passionate App Developer.
 
 <!--
 **SahajDang/SahajDang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
