@@ -1,6 +1,6 @@
 #  __Hi👋, I am Sahaj Dang__
 
-## A passionate Flutter App Developer.
+## A passionate Flutter Developer.
 
 
 About Me:
