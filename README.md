@@ -2,7 +2,9 @@
 
 ## A passionate App Developer.
 
-<img align="right" width="300" height="250" src="https://github.com/user-attachments/assets/e7813793-54a3-4c13-8984-996457fdf450">
+
+
+<img align="right" width="300" height="250" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 🔭 I’m currently building an application using Flutter.
 
