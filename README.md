@@ -9,7 +9,7 @@
 
 
 
-🔭 I’m currently building an application using Flutter.
+🔭 I’m currently building a Website using React.js.
 
 🌱 I’m currently Developing and deploying machine learning models.                    
 
