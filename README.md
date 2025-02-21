@@ -13,7 +13,7 @@
 
 🌱 I’m currently Developing and deploying machine learning models.                    
 
-💬 Ask me about Java, Flutter or anything related to App Development.
+💬 Ask me about Java, React.js and Website Development.
 
 📫 How to reach me: sahajdang71@gmail.com
 
