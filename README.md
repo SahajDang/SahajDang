@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/GSSoC'25-Contributor-orange" alt="GSSoC Badge"/>
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen"/>
   <img src="https://img.shields.io/badge/LeetCode-300%2B%20Solved-yellow" alt="LeetCode Badge"/>
+  <img src="https://img.shields.io/badge/Flipkart%20GRiD%207.0-Semi--Finalist-blue" alt="Flipkart GRiD Badge"/>
   <br>
   <sub>Contributor ID: <b>59f0f116-1741-4950-94df-1d31700ff981</b></sub>
 </p>
